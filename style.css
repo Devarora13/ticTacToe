@@ -101,6 +101,13 @@ h1 {
 @media (max-width : 420px){
     .container {
         transform: scale(0.65);
+        top : 15px;
+    }
+    .play-again{
+        top : 0;
+    }
+    main {
+        height: 70vh;
     }
 }
 
